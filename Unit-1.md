@@ -3,5 +3,7 @@
  - Preprocessing (Collecting , cleaning , moidify)
  - Analysis
  - OPtimization
+
+* Types of Business Analysis
  
  
